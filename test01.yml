@@ -1,5 +1,4 @@
-repo name
-ips-ansible-dev
+#
 ---
 - name: ping windows server
   hosts: all
